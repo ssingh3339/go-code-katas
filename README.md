@@ -98,7 +98,7 @@ See [problems/arrays/two-sum/](problems/arrays/two-sum/) for a complete example.
 
 ### Prerequisites
 
-- Go 1.23 or higher
+- Go 1.26.2 or higher
 - Make (optional, but recommended)
 
 ### Installation
@@ -326,7 +326,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Inspired by various coding practice platforms
-- Built with Go 1.23
+- Built with Go 1.26.2
 - Follows Go community best practices
 
 ## 📞 Contact
