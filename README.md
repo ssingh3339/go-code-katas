@@ -1,6 +1,6 @@
 # go-code-katas
 
-[![Go Version](https://img.shields.io/badge/Go-1.23-blue.svg)](https://golang.org)
+[![Go Version](https://img.shields.io/badge/Go-1.26.2-blue.svg)](https://golang.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A production-quality Go repository for practicing programming problems, algorithms, data structures, concurrency exercises, and general coding katas. This repository is designed to be scalable, maintainable, and beginner-friendly.
